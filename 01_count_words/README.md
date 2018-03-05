@@ -23,3 +23,15 @@ do this by modifying the count_words.cpp file.
 
 I have intentionally left out a bunch of details. You WILL have to ask me a
 bunch of questions to pull this off, so do not hesitate.
+
+# count_words.cpp
+
+This is the code file you will be modyfying that contains the count_words() function.
+
+# count_words.h
+
+Most .cpp files have a companion .h file that lists the what the .cpp file makes available to the public.
+
+# tests.cpp
+
+This contains the tests we want to run. You will notice that there is no main() function anywhere, that's because googletest, the test running library, provides it for us.
