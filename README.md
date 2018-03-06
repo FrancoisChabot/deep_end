@@ -1,7 +1,7 @@
 # Deep End
 
 Warning: If you are just stumbling on this while looking for C++ tutorials, then this project is probably NOT for you. There's a lot
-of intentionally missing pieces of information and concepts that are intriduced without explanationin a way that is meant to 
+of intentionally missing pieces of information and concepts that are intriduced without explanation in a way that is meant to 
 prompt the reader to ask questions.
 
 
